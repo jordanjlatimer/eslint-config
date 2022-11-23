@@ -35,7 +35,7 @@ module.exports = {
 		"no-constant-binary-expression": "error",
 		"no-constant-condition": [ "error", { checkLoops: false } ],
 		"no-constructor-return": "error",
-    "no-debugger": "off",
+    	"no-debugger": "off",
 		"no-div-regex": "error",
 		"no-else-return": "warn",
 		"no-eq-null": "error",
