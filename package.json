@@ -2,7 +2,7 @@
   "name": "@jordanjlatimer/eslint-config",
   "version": "0.0.1",
   "main": "index.js",
-  "dependencies": {
+  "peerDependencies": {
     "eslint": "^8.20.0"
   }
 }
